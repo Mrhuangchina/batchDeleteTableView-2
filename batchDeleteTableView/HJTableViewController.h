@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  HJTableViewController.h
 //  batchDeleteTableView
 //
 //  Created by MrHuang on 17/9/1.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface HJTableViewController : UITableViewController
 
 @end
-
